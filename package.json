@@ -1,0 +1,17 @@
+{
+  "name": "webscraping",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "format-data": "^2.1.2",
+    "got": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gr4vytr0n",
+  "license": "MIT"
+}
